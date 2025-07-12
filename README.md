@@ -3,8 +3,9 @@
 
   ![image](https://github.com/user-attachments/assets/ebbc4812-1f1c-4e38-b2d9-9a01c25b9de6)
 
-[rentry](https://rentry.co/andsokyoyamethim) ‎‎‎‎[pronouns.cc](https://pronouns.cc/@kyotama) [atabook]()
+[rentry](https://rentry.co/andsokyoyamethim) , ‎‎‎‎[pronouns.cc](https://pronouns.cc/@kyotama) , [atabook](https://kyotama.atabook.org)
 
+────────── 🌹 ──────────
 <!--
 **leopikaed/leopikaed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
