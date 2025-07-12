@@ -1,4 +1,4 @@
-<h5 align=center> <img src=https://komarev.com/ghpvc/?username=leopikaed&color=orange&style=flat-square&label=welcome+to+the+host+club+☆+>
+<h5 align=center> <img src=https://komarev.com/ghpvc/?username=leopikaed&color=5432a8&style=flat-square&label=welcome+to+the+host+club+☆+>
   <br><br><br>
 
   ![image](https://github.com/user-attachments/assets/ebbc4812-1f1c-4e38-b2d9-9a01c25b9de6)
